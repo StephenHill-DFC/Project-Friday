@@ -1,5 +1,5 @@
 # Project Friday
-Project Friday is the code name for the project which allows Alexa to to talk to the Communicator platform.
+Project Friday is the code name for the project which allows Alexa to talk to the Communicator platform.
 
 ## Objectives - Version 1.0
 
