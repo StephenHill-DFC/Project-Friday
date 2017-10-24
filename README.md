@@ -6,7 +6,7 @@ Project Friday is the code name for the project which allows Alexa to talk to th
 #### Alexa... open Communicator
 
 ```
-Hi [FIRST NAME], welcome to the Communicator Alexa app. The goal of this app is to allow you to access real time statistics for all of your Email and SMS dispatches.
+Hi [FIRST NAME], welcome to the Communicator Alexa app. The goal of this app is to allow you to access real time statistics for all of your Email and SMS dispatches. What can I help with today?
 ```
 
 ## Objectives - Version 2.0
